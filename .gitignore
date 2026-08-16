@@ -1,0 +1,14 @@
+# build output
+build/
+
+# local scratch / snapshots
+Archive.zip
+*.zip
+
+# editor
+.vscode/
+.idea/
+.serena/
+
+# OS
+.DS_Store
